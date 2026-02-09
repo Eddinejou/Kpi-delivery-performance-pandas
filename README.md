@@ -8,6 +8,7 @@
 
 ## Setup
 pip install -r requirements.txt
+python src/kpi_analysis.py
 
 ## Data
 Put these files in `data/` (not included in repo):
@@ -18,4 +19,5 @@ Put these files in `data/` (not included in repo):
 python src/kpi_analysis.py
 
 ## Output
+
 CSV results are saved to `outputs/`.
